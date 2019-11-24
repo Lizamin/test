@@ -1,1 +1,2 @@
 fileA
+File A version 2.0
